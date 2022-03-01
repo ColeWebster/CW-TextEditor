@@ -30,12 +30,3 @@ If you would like to learn more about this text editor, please reach me at Cole.
     
 ## Screenshots <h1 id='test'></h1>
 
-This is a live view of the application on desktop    
-![Viewing on desktop](./Assets/jate.jpg)
- 
-This is a live view on mobile
-![Mobile View](./Assets/mobileview.jpg)
-
-The app is availble for use offline
-![Offline Viewing](./Assets/offline.jpg)
-
