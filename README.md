@@ -30,3 +30,11 @@ If you would like to learn more about this text editor, please reach me at Cole.
     
 ## Screenshots <h1 id='test'></h1>
 
+View the app in action below:
+![Main View](./assets/jate.jpg)
+
+View the manifest along with the mobile view:
+![Mobile and Manifest](./assets/manifest.jpg)
+
+Here is a look at the service worker:
+![Service Worker](./assets/serviceworkers.jpg)
